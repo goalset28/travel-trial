@@ -1,0 +1,6 @@
+code,name,descr,stateRequired
+CN,China,,false
+US,United States,,true
+DE,Germany,,false
+JP,Japan,,false
+SG,Singapore,,false

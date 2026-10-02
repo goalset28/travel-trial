@@ -1,0 +1,10 @@
+code,name,descr,city_ID
+PVG,Shanghai Pudong,Shanghai Pudong International,c1000000-0000-0000-0000-000000000001
+SHA,Shanghai Hongqiao,Shanghai Hongqiao International,c1000000-0000-0000-0000-000000000001
+SZX,Shenzhen,Shenzhen Bao'an International,c1000000-0000-0000-0000-000000000002
+PEK,Beijing Capital,Beijing Capital International,c1000000-0000-0000-0000-000000000003
+SFO,San Francisco,San Francisco International,c1000000-0000-0000-0000-000000000004
+JFK,New York JFK,John F. Kennedy International,c1000000-0000-0000-0000-000000000005
+TXL,Berlin,Berlin Brandenburg,c1000000-0000-0000-0000-000000000006
+NRT,Tokyo Narita,Narita International,c1000000-0000-0000-0000-000000000007
+SIN,Singapore,Singapore Changi,c1000000-0000-0000-0000-000000000008
